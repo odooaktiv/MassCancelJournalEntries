@@ -7,6 +7,7 @@
     'website': "http://www.aktivsoftware.com",
     'category': 'Invoicing',
     'version': '12.0.1.0.1',
+    'license': 'AGPL-3',
 
     # any module necessary for this one to work correctly
     'depends': ['account_cancel', 'account'],
