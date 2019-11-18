@@ -6,10 +6,10 @@
     'author': "AktivSoftware",
     'website': "http://www.aktivsoftware.com",
     'category': 'Invoicing',
-    'version': '11.0.1.0.1',
+    'version': '12.0.1.0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['account_cancel', 'account_invoicing'],
+    'depends': ['account_cancel', 'account'],
 
     # always loaded
     'data': [
