@@ -3,7 +3,7 @@
     'name': "Mass Cancel Journal Entries",
     'summary': """ This module allows to cancel or delete mass/bulk/multiple Journal Entries
             from the tree view.""", 
-    'author': "AktivSoftware",
+    'author': "Aktiv Software",
     'website': "http://www.aktivsoftware.com",
     'category': 'Invoicing',
     'version': '13.0.1.0.2',
