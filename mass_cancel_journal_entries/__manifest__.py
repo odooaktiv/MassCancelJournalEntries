@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 {
     'name': "Mass Cancel Journal Entries",
-    'summary': """ This module allows to cancel to cancel or delete mass/bulk/multiple Journal Entries
+
+    'summary': """ This module allows to cancel or delete mass/bulk/multiple Journal Entries
             from the tree view.""", 
-    'author': "AktivSoftware",
+    'author': "Aktiv Software",
     'website': "http://www.aktivsoftware.com",
     'category': 'Invoicing',
     'version': '12.0.1.0.2',
