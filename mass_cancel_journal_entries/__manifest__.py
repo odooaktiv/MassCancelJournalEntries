@@ -6,7 +6,7 @@
             from the tree view.""", 
     'author': "Aktiv Software",
     'website': "http://www.aktivsoftware.com",
-    'category': 'Invoicing',
+    'category': 'Accounting',
     'version': '12.0.1.0.2',
     'license': 'AGPL-3',
 
